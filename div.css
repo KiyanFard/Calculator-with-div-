@@ -1,0 +1,41 @@
+body{
+    background-color:rgb(216, 196, 196);
+}
+.cl{
+    background-color:cornflowerblue
+}
+.cl2{
+    background-color:darkgrey
+}
+.common{
+    height:50px;
+    width:50px;
+    margin-top: 3px;
+    font-size: 1em;
+    transition:all 1s;
+}
+.result {
+    height: 50px; 
+    width:210px; 
+    background-color:transparent;
+    font-size:1.5em;
+    border:none;
+}
+
+.align-center {
+    border:none;
+    padding:10%;
+    text-align:center;
+}
+.disapear{
+    border:none;
+    background-color:transparent;
+    height:50px;
+    width:50px;
+    margin-top: 3px;
+}
+button:hover{
+    background-color:chartreuse;
+    box-shadow:2px 2px black;
+    transition: all 1s;
+}
